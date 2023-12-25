@@ -147,18 +147,6 @@ def rfm(df):
 
 df_rfm = rfm(df)
 
-# In the context of RFM (Recency, Frequency, Monetary value) analysis, a 'Recency' score of 2 for example has a specific interpretation related to customer engagement and recent activity.
-
-# The 'Recency' metric in RFM analysis represents the number of days since the customer's last purchase. A lower 'Recency' score indicates that the customer has made a purchase more recently.
-
-# So, if a customer has a 'Recency' score of 2 in your RFM analysis, it means:
-
-# Recent Engagement: The customer made their last purchase just 2 days before the 'snapshot_date'. This is a very recent interaction, indicating high recent engagement with your business.
-# Potential for Immediate Follow-up: Given the recent interaction, this customer might be more receptive to new offers, promotions, or products. This is an opportune time to engage them with marketing communications.
-# High Priority for Retention Strategies: Customers with such recent interactions are often considered high-priority in retention strategies, as they are likely to be more responsive to customer retention efforts.
-# Indicator of Loyalty or Interest: Frequent and recent purchases can be indicators of customer loyalty or a growing interest in your products or services.
-# In summary, a 'Recency' score of 2 suggests that the customer is highly engaged and has recently interacted with your business, making them a prime candidate for targeted marketing or loyalty programs.
-
 
 # In[13]:
 
