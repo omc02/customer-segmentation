@@ -5,7 +5,7 @@
 ### 1. Importing Libraries
 The project uses several Python libraries for data manipulation and analysis, including:
 
-- Pandas for data processing and CSV file I/O.
+- Pandas for data processing and CSV file.
 - NumPy for numerical operations.
 - Seaborn and Matplotlib for data visualization.
 - scikit-learn for applying KMeans clustering.
